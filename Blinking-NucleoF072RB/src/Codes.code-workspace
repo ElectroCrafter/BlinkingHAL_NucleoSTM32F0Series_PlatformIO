@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Master/Master Degree/Courses/MIT-C ProgrammingCourse2010/Codes"
+		},
+		{
+			"name": "Peripherals-NucleoF072RB",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mylib.h": "c",
+			"*.o": "c",
+			"stdio.h": "c",
+			"stdint.h": "c",
+			"stdlib.h": "c",
+			"mylibrary.h": "c",
+			"dict.h": "c",
+			"time.h": "c",
+			"prob33.h": "c",
+			"cstdint": "c",
+			"random": "c",
+			"cstdlib": "c",
+			"algorithm": "c",
+			"string.h": "c",
+			"type_traits": "c"
+		}
+	}
+}
