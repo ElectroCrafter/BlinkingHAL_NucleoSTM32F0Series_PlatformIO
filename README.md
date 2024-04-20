@@ -11,10 +11,18 @@ To test this code on the development board, follow these steps:
 1. **Operating System:** Windows
 2. **Software:** Visual Studio Code
 3. **Platform:** PlatformIO
+4. **Dev Board:** STM32F072RB
 
 ### Hardware I/O Details
 
 - **LED Pin build-in:** PA5
+
+### General Code Description
+
+- **platformio.ini:** PlatformIO project configuration
+- **Folder Code:** on the src folder
+- **Main Code:** main.c
+- **Header Code:** main.h
 - **HAL Library:** stm32f0xx_hal.h
 
 ## Usage
