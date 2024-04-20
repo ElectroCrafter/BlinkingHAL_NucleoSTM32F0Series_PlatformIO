@@ -8,7 +8,7 @@ This repository contains a simple example project for blinking an LED on the Nuc
 
 To test this code on the development board, follow these steps:
 
-1. **Operating System:** Windows 11
+1. **Operating System:** Windows
 2. **Software:** Visual Studio Code
 3. **Platform:** PlatformIO
 
